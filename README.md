@@ -1,11 +1,11 @@
-### Hi there, I'm Fatima Yousif 👋 
+### Hi there, I'm Fatima Yousif 👋
 
 ### ⚡️ Here is a bit about me
 
 - *JavaScript Developer who mostly work with the frontend using **HTML5, CSS, Javascript & React.js***
 - *Former fellow at **Jadu Full Stack Development Fellowship***
 - *Former **Web Development intern** at Kotari*
-- *Technical Writer at [**Medium**](https://medium.com/@Fatima_yousif)*
+- *Technical Writer at [**Medium**](https://fatima-yousif.medium.com/)*
 - *Host in various **Tech talks & Bootcamps** of notable communities*
 - *[**SheLovesTech**](https://www.shelovestech.org/) 2020 Lahore round TechKaro Student Story [**sharer**](https://www.facebook.com/circlewomen/videos/she-loves-tech-lahore-regional-round-2020/3040032202775456/)*
 - *Jave Karona [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at Google DSC MUET Jamshoro Chapter where I taught **Java GUI using SWING***
@@ -14,7 +14,7 @@
 - *Current **TechKaro Web Development Buddy** at TechKaro by CIRCLE.org*
 - *Rising Senior Software Engineering Undergrad*
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -23,11 +23,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  
-**Github Stats:**  
+
+**Github Stats:**
 
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=material-palenight)
 
-**Languages Stats:**  
+**Languages Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaYousif&layout=compact)](https://github.com/FatimaYousif/github-readme-stats)
