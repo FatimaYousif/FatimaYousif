@@ -30,6 +30,7 @@
 **Github Stats:**
 
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=material-palenight)
-<img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+
+<br/><img align="left" height="270px" width="340" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif"/>
 
 
