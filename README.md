@@ -27,7 +27,6 @@
 **Github Stats:**
 
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=material-palenight)
+<img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
 
-**Languages Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaYousif&layout=compact)](https://github.com/FatimaYousif/github-readme-stats)
