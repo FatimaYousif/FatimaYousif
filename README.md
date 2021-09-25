@@ -5,14 +5,14 @@
 
 ### ⚡️ Here is a bit about me
 
-- *JavaScript Developer who mostly work with the frontend using **HTML5, CSS, Javascript & React.js***
+- *Web and Android Developer*
 - *Former fellow at **Jadu Full Stack Development Fellowship***
 - *Former **Web Development intern** at Kotari*
 - *Technical Writer at [**Medium**](https://fatima-yousif.medium.com/)*
 - *Host in various **Tech talks & Bootcamps** of notable communities*
 - *[**SheLovesTech**](https://www.shelovestech.org/) 2020 Lahore round TechKaro Student Story [**sharer**](https://www.facebook.com/circlewomen/videos/she-loves-tech-lahore-regional-round-2020/3040032202775456/)*
 - *Jave Karona [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at Google DSC MUET Jamshoro Chapter where I taught **Java GUI using SWING***
-- *Former Lead of [**Google DSC Mehran UET Jamshoro Chapter**](https://dsc.community.dev/mehran-university-of-engineering-and-technology/)*
+- *Former Google DSC Lead 2020-2021 at [**Google DSC Mehran UET Jamshoro Chapter**](https://gdsc.community.dev/mehran-university-of-engineering-and-technology/)*
 - *[**Speaker**](https://youtu.be/me3rMW4IgSY) @ Campus aur Club Podcast*
 - *Current **TechKaro Web Development Buddy** at TechKaro by CIRCLE.org*
 - *Rising Senior Software Engineering Undergrad*
