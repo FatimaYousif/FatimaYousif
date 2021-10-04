@@ -1,3 +1,7 @@
+![Intro](https://user-images.githubusercontent.com/49322171/135896739-269b8f58-3781-4551-8401-db2528c3a654.png)
+
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
