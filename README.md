@@ -1,5 +1,19 @@
 ![Intro](https://user-images.githubusercontent.com/49322171/135896739-269b8f58-3781-4551-8401-db2528c3a654.png)
 
+<p align="center">
+  <a href="https://github.com/FatimaYousif?tab=followers">
+    <img src="https://img.shields.io/github/followers/FatimaYousif?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/fatima-yousif/" target="_blank">
+  <img alt="fatima-yousif | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://twitter.com/fatima_yousifx">
+    <img src="https://img.shields.io/twitter/follow/fatima_yousifx?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  </a>
+<a href="https://www.instagram.com/vaga_bond01" target="_blank">
+  <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -31,9 +45,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-**Github Stats:**
+<p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=FatimaYousif&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
 
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=material-palenight)
+  <div> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<hr>
 
 
+<a href="https://FatimaYousif.github.io/"><img alt="Fatima's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FatimaYousif&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+
+<div align="center">
+         
+### Show some ❤️ by starring some of the repositories!
+</div>
 
