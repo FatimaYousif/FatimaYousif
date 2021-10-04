@@ -13,6 +13,7 @@
   </a>
 <a href="https://www.instagram.com/vaga_bond01" target="_blank">
   <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 
