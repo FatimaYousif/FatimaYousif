@@ -1,4 +1,8 @@
-![Intro](https://user-images.githubusercontent.com/49322171/135896739-269b8f58-3781-4551-8401-db2528c3a654.png)
+<!-- ![Intro](https://user-images.githubusercontent.com/49322171/135896739-269b8f58-3781-4551-8401-db2528c3a654.png) -->
+
+![thumbnail](https://user-images.githubusercontent.com/49322171/200297302-8af407c6-a806-47ef-a08f-3d812797ab8b.png)
+
+
 
 <p align="center">
   <a href="https://github.com/FatimaYousif?tab=followers">
@@ -16,24 +20,14 @@
   </a>
 </p>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Fatima Yousif</h1>
-
 ### ⚡️ Here is a bit about me
 
-- *Web and Android Developer*
-- *Former fellow at **Jadu Full Stack Development Fellowship***
-- *Former **Web Development intern** at Kotari*
-- *Technical Writer at [**Medium**](https://fatima-yousif.medium.com/)*
-- *Host in various **Tech talks & Bootcamps** of notable communities*
-- *[**SheLovesTech**](https://www.shelovestech.org/) 2020 Lahore round TechKaro Student Story [**sharer**](https://www.facebook.com/circlewomen/videos/she-loves-tech-lahore-regional-round-2020/3040032202775456/)*
-- *Jave Karona [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at Google DSC MUET Jamshoro Chapter where I taught **Java GUI using SWING***
-- *Former Google DSC Lead 2020-2021 at [**Google DSC Mehran UET Jamshoro Chapter**](https://gdsc.community.dev/mehran-university-of-engineering-and-technology/)*
-- *[**Speaker**](https://youtu.be/me3rMW4IgSY) @ Campus aur Club Podcast*
-- *Senior Software Engineering Undergraduate Student*
+<p>
+I love to draw data insights, design ML models and present visualizations and integrating them to Frontend for a better User Experience provided through Web application. My expertise experience included working on a Deep Learning research-based Final Year Project. Constantly, I follow up with trends in Web 3.0, Meta and NFTs.
+</p>
+
+Additionally, I have proven leadership qualities demonstrated in global communities including 10Pearls, Google DSC, TEDx MUET, TechKaro, and GDG Live Pakistan.
+
 
 ### ⚡️ Stats
 <p>
