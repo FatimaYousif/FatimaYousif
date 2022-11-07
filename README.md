@@ -23,7 +23,7 @@
 ### ⚡️ Here is a bit about me
 
 <p>
-I love to draw data insights, design ML models and present visualizations and integrating them to Frontend for a better User Experience provided through Web application. My expertise experience included working on a Deep Learning research-based Final Year Project. Constantly, I follow up with trends in Web 3.0, Meta and NFTs.
+I love to draw data insights, design ML models, present visualizations and integrating them to Frontend for a better User Experience provided through Web application. My expertise experience included working on a Deep Learning research-based Final Year Project. Constantly, I follow up with trends in Web 3.0, Meta and NFTs.
 </p>
 
 Additionally, I have proven leadership qualities demonstrated in global communities including 10Pearls, Google DSC, TEDx MUET, TechKaro, and GDG Live Pakistan.
