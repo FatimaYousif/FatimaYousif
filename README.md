@@ -22,7 +22,7 @@
 #### An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems
 
 <p>
-Aspiring Robotics engineer with a deep focus in Intelligent Field Robotic Systems, eager to advance research in robotic applications. Passionate about real-time task planning and execution in autonomous (mobile) manipulation, adapting to complex and dynamic environments, and SLAM for improved navigation and mapping.
+Aspiring Robotics Engineer with a deep focus in Intelligent Field Robotic Systems, eager to advance research in robotic applications. Passionate about real-time task planning and execution in autonomous (mobile) manipulation, adapting to complex and dynamic environments, and SLAM for improved navigation and mapping.
 </p>
 
 Additionally, I have proven leadership qualities demonstrated in global communities including Google Developer Student Clubs, TEDx, Google Developer Groups Live, U.S. Embassy programs, and 10Pearls.
