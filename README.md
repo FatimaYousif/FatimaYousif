@@ -1,9 +1,8 @@
 <!-- ![Intro](https://user-images.githubusercontent.com/49322171/135896739-269b8f58-3781-4551-8401-db2528c3a654.png) -->
 
-![thumbnail](https://user-images.githubusercontent.com/49322171/229831146-0d090b73-84a3-4ed3-9eb7-dc194da3ee19.png)
+<!--![thumbnail](https://user-images.githubusercontent.com/49322171/229831146-0d090b73-84a3-4ed3-9eb7-dc194da3ee19.png) -->
 
-
-
+<img src="https://github.com/FatimaYousif/FatimaYousif/assets/49322171/908c96cd-453e-47ab-9074-615489e80e54" alt="Thumbnail" style="height: 50%;">
 
 <p align="center">
   <a href="https://github.com/FatimaYousif?tab=followers">
@@ -12,22 +11,21 @@
   <a href="https://www.linkedin.com/in/fatima-yousif/" target="_blank">
   <img alt="fatima-yousif | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://twitter.com/fatima_yousifx">
-    <img src="https://img.shields.io/twitter/follow/fatima_yousifx?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
   </a>
 <a href="https://www.instagram.com/fatimas.pov/" target="_blank">
   <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-### ⚡️ Here is a bit about me
+### Hi 👋, I'm Fatima Yousif Rustamani 
+
+#### An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems
 
 <p>
-I love to draw data insights, design ML models, present visualizations and integrating them to Frontend for a better User Experience provided through Web application. My expertise experience included working on a Deep Learning research-based Final Year Project. Constantly, I follow up with trends in Web 3.0, Meta and NFTs.
+Aspiring Robotics engineer with a deep focus in Intelligent Field Robotic Systems, eager to advance research in robotic applications. Passionate about real-time task planning and execution in autonomous (mobile) manipulation, adapting to complex and dynamic environments, and SLAM for improved navigation and mapping.
 </p>
 
-Additionally, I have proven leadership qualities demonstrated in global communities including 10Pearls, Google DSC, TEDx MUET, TechKaro, and GDG Live Pakistan.
+Additionally, I have proven leadership qualities demonstrated in global communities including Google Developer Student Clubs, TEDx, Google Developer Groups Live, U.S. Embassy programs, and 10Pearls.
 
 
 ### ⚡️ Stats
